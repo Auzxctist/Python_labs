@@ -75,7 +75,6 @@ def calculate_average():
         messagebox.showinfo("Отмена", "Файл не выбран.")
 
 
-###
 root = Tk()
 root.title("Работа с файлами")
 
